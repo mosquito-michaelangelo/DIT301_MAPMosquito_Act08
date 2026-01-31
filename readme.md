@@ -48,7 +48,7 @@ Below are screenshots of the app in action:
 ![permission request](screenshots/map_location.jpg)
 
 **3. location_update.png**
-![permission request](screenshots/location_update.jpg)
+![permission request](screenshots/lcoation_update.jpg)
 
 ---
 
