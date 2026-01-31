@@ -42,13 +42,13 @@ The map is displayed using the **OSMDroid** library, which requires no API key a
 Below are screenshots of the app in action:
 
 **1. permission_request.png**
-Shows the permission dialog when the app first requests location access.
+![permission request](screenshots/permission_request.jpg)
 
 **2. map_location.png**
-Displays the main screen with your current location marked on the OpenStreetMap, along with your coordinates.
+![permission request](screenshots/map_location.jpg)
 
 **3. location_update.png**
-Shows the info card updating in real time as your location changes, including latitude, longitude, and accuracy.
+![permission request](screenshots/location_update.jpg)
 
 ---
 
